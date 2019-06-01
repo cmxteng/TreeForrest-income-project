@@ -4,6 +4,7 @@
 By using this census data with a random forest, we will try to predict whether or not a person makes more than $50,000.  
 
 Here are what the columns represent:
+
 *income: <=50k, >=50k
 *age: continuous. 
 *workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked. 
